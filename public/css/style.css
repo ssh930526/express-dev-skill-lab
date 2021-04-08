@@ -1,0 +1,42 @@
+h1 {
+    color: palevioletred;
+    padding: 150px;
+    font-family: monospace;
+}
+
+
+ 
+
+input{
+    color:sienna;
+    padding:10px;
+    position:relative;
+    left: 150px;
+    display: inline-block;
+    width: 140px;
+    text-align: center;
+    font-family: Helvetica;
+    }
+
+ a:visited {
+        color: green;
+    
+      }
+a:link {
+    text-align: center;
+    position: relative;
+    left: 400px;   
+    font-size: x-large; 
+   
+}
+
+button {
+    position:absolute;
+    text-align: center;
+    left:400px;
+}
+
+li{
+    display: inline;
+   
+}
